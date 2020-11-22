@@ -1,0 +1,10 @@
+C:\Users\victo\source\repos\PokemonServer\PokemonClient\bin\Debug\PokemonClient.exe.config
+C:\Users\victo\source\repos\PokemonServer\PokemonClient\bin\Debug\PokemonClient.exe
+C:\Users\victo\source\repos\PokemonServer\PokemonClient\bin\Debug\PokemonClient.pdb
+C:\Users\victo\source\repos\PokemonServer\PokemonClient\obj\Debug\PokemonClient.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\PokemonServer\PokemonClient\obj\Debug\PokemonClient.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\PokemonServer\PokemonClient\obj\Debug\PokemonClient.exe
+C:\Users\victo\source\repos\PokemonServer\PokemonClient\obj\Debug\PokemonClient.pdb
+C:\Users\victo\source\repos\PokemonServer\PokemonClient\bin\Debug\XmlWorker.dll
+C:\Users\victo\source\repos\PokemonServer\PokemonClient\bin\Debug\XmlWorker.pdb
+C:\Users\victo\source\repos\PokemonServer\PokemonClient\obj\Debug\PokemonClient.csproj.CopyComplete

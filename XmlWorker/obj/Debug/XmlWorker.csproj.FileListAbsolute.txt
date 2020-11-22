@@ -1,0 +1,6 @@
+C:\Users\victo\source\repos\PokemonServer\XmlWorker\bin\Debug\XmlWorker.dll
+C:\Users\victo\source\repos\PokemonServer\XmlWorker\bin\Debug\XmlWorker.pdb
+C:\Users\victo\source\repos\PokemonServer\XmlWorker\obj\Debug\XmlWorker.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\PokemonServer\XmlWorker\obj\Debug\XmlWorker.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\PokemonServer\XmlWorker\obj\Debug\XmlWorker.dll
+C:\Users\victo\source\repos\PokemonServer\XmlWorker\obj\Debug\XmlWorker.pdb
